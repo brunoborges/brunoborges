@@ -51,10 +51,10 @@ I'm a passionate software developer and technology enthusiast. Welcome to my Git
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/brunoborges" target="_blank">
+  <a href="https://twitter.com/brunoborges">
     <img src="https://img.shields.io/badge/Twitter-Follow%20Me-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Follow">
   </a>
-  <a href="https://linkedin.com/in/brunocborges" target="_blank">
+  <a href="https://linkedin.com/in/brunocborges">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect">
   </a>
 </p>
