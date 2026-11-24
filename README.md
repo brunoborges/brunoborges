@@ -1,66 +1,29 @@
-<h1 align="center">Hi there! 👋 I'm Bruno Borges</h1>
+# Hi, I'm Bruno Borges 👋
 
-<p align="center">
-  <a href="https://twitter.com/brunoborges"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/brunocborges"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/brunoborges"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+I'm a Principal Product Manager at Microsoft and a Java Champion. I work at the intersection of developer platforms, cloud, open source, and AI-enabled developer experiences, combining product strategy with hands-on engineering and community building.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brunoborges&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+I'm interested in making complex technology more useful to developers: modernizing Java, understanding JVM behavior, improving cloud infrastructure, and giving AI agents better developer tools.
 
----
+## Featured projects
 
-## 👨‍💻 About Me
+### Java and cloud
 
-I'm a passionate software developer and technology enthusiast. Welcome to my GitHub profile!
+- [**JLib Inspector**](https://github.com/brunoborges/jlib-inspector) — Experimental tooling for monitoring the JAR dependencies loaded by running JVMs.
+- [**Java Evolved**](https://javaevolved.dev/) — Side-by-side examples that help developers move from older Java patterns to modern idioms. [Source](https://github.com/brunoborges/javaevolved)
+- [**Brewlet**](https://brewlet.sh/) — Kubernetes infrastructure for supplying and updating language runtimes separately from application images. [Source](https://github.com/microsoft/brewlet)
+- [**JairoSVG**](https://github.com/brunoborges/jairosvg) — A Java SVG converter for image, PDF, and PostScript formats.
+- [**2048FX**](https://github.com/brunoborges/fx2048) — The 2048 game built with JavaFX.
 
-- 🚀 Building innovative solutions and contributing to open source
-- 💡 Always learning and exploring new technologies
-- 🌍 Sharing knowledge and collaborating with the community
-- 📫 Reach out to me on [Twitter](https://twitter.com/brunoborges) or [LinkedIn](https://linkedin.com/in/brunocborges)
+### JVM diagnostics and AI agents
 
----
+- [**JVM Diagnostics MCP**](https://github.com/brunoborges/jvm-diagnostics-mcp) — An MCP server that brings JVM diagnostic tools to AI assistants.
+- [**JVM Pulse**](https://github.com/brunoborges/jvm-pulse) — A GitHub Copilot canvas extension for exploring garbage collection logs and Java Flight Recorder data.
+- [**JDB Agentic Debugger**](https://github.com/brunoborges/jdb-agentic-debugger) — An agent plugin for debugging Java applications in real time with JDB.
 
-## 🛠️ Technologies & Tools
+### Developer tooling
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- [**ghx**](https://github.com/brunoborges/ghx) — A caching proxy for the GitHub CLI that reduces redundant API calls, including in multi-agent workflows.
 
----
+## Connect
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunoborges&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunoborges&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoborges&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://twitter.com/brunoborges">
-    <img src="https://img.shields.io/badge/Twitter-Follow%20Me-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Follow">
-  </a>
-  <a href="https://linkedin.com/in/brunocborges">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/brunoborges">brunoborges</a></i>
-</p>
+Find me on [LinkedIn](https://www.linkedin.com/in/brunocborges/) or [Twitter](https://twitter.com/brunoborges).
