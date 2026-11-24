@@ -1,6 +1,10 @@
 # Hi, I'm Bruno Borges 👋
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/brunocborges/">LinkedIn</a> ·
+  <a href="https://bsky.app/profile/brunoborges.bsky.social">Bluesky</a> ·
+  <a href="https://twitter.com/brunoborges">Twitter</a> ·
+  <a href="https://medium.com/@brunoborges">Medium</a> ·
   <img src="https://komarev.com/ghpvc/?username=brunoborges&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
@@ -41,7 +45,3 @@ I'm interested in making complex technology more useful to developers: modernizi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoborges&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
-
-## Connect
-
-Find me on [LinkedIn](https://www.linkedin.com/in/brunocborges/), [Bluesky](https://bsky.app/profile/brunoborges.bsky.social), or [Twitter](https://twitter.com/brunoborges). Read my articles on [Medium](https://medium.com/@brunoborges).
