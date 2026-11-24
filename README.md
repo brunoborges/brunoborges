@@ -26,4 +26,4 @@ I'm interested in making complex technology more useful to developers: modernizi
 
 ## Connect
 
-Find me on [LinkedIn](https://www.linkedin.com/in/brunocborges/) or [Twitter](https://twitter.com/brunoborges).
+Find me on [LinkedIn](https://www.linkedin.com/in/brunocborges/), [Bluesky](https://bsky.app/profile/brunoborges.bsky.social), or [Twitter](https://twitter.com/brunoborges). Read my articles on [Medium](https://medium.com/@brunoborges).
