@@ -1,5 +1,9 @@
 # Hi, I'm Bruno Borges 👋
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=brunoborges&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 I'm a Principal Product Manager at Microsoft and a Java Champion. I work at the intersection of developer platforms, cloud, open source, and AI-enabled developer experiences, combining product strategy with hands-on engineering and community building.
 
 I'm interested in making complex technology more useful to developers: modernizing Java, understanding JVM behavior, improving cloud infrastructure, and giving AI agents better developer tools.
@@ -23,6 +27,20 @@ I'm interested in making complex technology more useful to developers: modernizi
 ### Developer tooling
 
 - [**ghx**](https://github.com/brunoborges/ghx) — A caching proxy for the GitHub CLI that reduces redundant API calls, including in multi-agent workflows.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunoborges&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunoborges&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoborges&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
 
 ## Connect
 
