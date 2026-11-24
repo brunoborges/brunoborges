@@ -1,10 +1,10 @@
 # Hi, I'm Bruno Borges 👋
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brunocborges/">LinkedIn</a> ·
-  <a href="https://bsky.app/profile/brunoborges.bsky.social">Bluesky</a> ·
-  <a href="https://twitter.com/brunoborges">Twitter</a> ·
-  <a href="https://medium.com/@brunoborges">Medium</a> ·
+  <a href="https://www.linkedin.com/in/brunocborges/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-24292e?style=flat&amp;logo=linkedin&amp;logoSource=feather&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://bsky.app/profile/brunoborges.bsky.social"><img src="https://img.shields.io/badge/Bluesky-24292e?style=flat&amp;logo=bluesky&amp;logoColor=white" alt="Bluesky" /></a>
+  <a href="https://twitter.com/brunoborges"><img src="https://custom-icon-badges.demolab.com/badge/Twitter-24292e?style=flat&amp;logo=twitter&amp;logoSource=feather&amp;logoColor=white" alt="Twitter" /></a>
+  <a href="https://medium.com/@brunoborges"><img src="https://img.shields.io/badge/Medium-24292e?style=flat&amp;logo=medium&amp;logoColor=white" alt="Medium" /></a>
   <img src="https://komarev.com/ghpvc/?username=brunoborges&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
